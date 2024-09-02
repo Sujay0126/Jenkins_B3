@@ -3,13 +3,13 @@ pipeline{
     stages{
       stage('Compile'){
       steps{
-        bat 'javac index.java'
+        bat 'javac Index.java'
 
       }
     }
       stage('Run'){
       steps{
-        bat 'java index'
+        bat 'java Index'
 
       }
     }
