@@ -64,4 +64,21 @@ Scroll down to “Post Build Actions” and click on the “Add Post Build Actio
 Enter the Result Path as “**/target/surefire-reports/*.xml”. Click on the
 Apply and Save buttons
 Execute the tests by clicking on the “Build Now” button. 
-**
+
+
+Configure Jenkins to build a Job
+ Step 5: Check if git plugin is installed or not
+ Step 6: Click on Tools in Mange Jenkins dashboard
+ Step 7: Check path of git repository in Source Code 
+management if error then open cmd
+Step 7: execute where git command and copy git.exe 
+file path and copy it into source code management
+ Step 9: go to dashboard and click on New Items 
+ Step 10: copy your git hub repository url from your 
+account 
+ Step 11: copy your git hub repository url from your 
+account
+ Step 12: Give the Build steps commands 
+ Step 13: A er saving Click on Build now op on 
+
+
